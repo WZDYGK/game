@@ -1,3 +1,4 @@
 streamlit
 requests 
 random
+streamlit_drawable_canvas
